@@ -34,4 +34,5 @@
 1. SpringBoot:[官方教程](https://spring.io/guides/gs/spring-boot/)、[易百教程](https://www.yiibai.com/spring-boot/)
 2. Git教程:[廖雪峰教程](liaoxuefeng.com/wiki/896043488029600/896067008724000)、[Git简易手册](http://rogerdudler.github.io/git-guide/index.zh.html)、[Git使用手册](http://iissnan.com/progit/html/zh/ch1_0.html)
 3. JPA使用:[JPA介绍和使用](https://www.jianshu.com/p/633922bb189f)
-##小组成员：秦政 钟阳 彭鹏宇
+
+## 小组成员：秦政 钟阳 彭鹏宇
